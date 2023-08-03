@@ -1,10 +1,14 @@
 import itertools
+from tqdm.notebook import tqdm
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import networkx as nx
-from tqdm.notebook import tqdm
+import igraph as ig
+import community
+from unidecode import unidecode
+
 
 def explode_df(df : pd.DataFrame, col1 : str, col2 : str) -> pd.DataFrame:
     """
