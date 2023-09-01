@@ -1,6 +1,6 @@
 # Exploring the Steam Gaming Ecosystem using Network Analysis
 
-![Steam](steam-image.jpeg)
+![Steam](images/steam-image.jpeg)
 
 Welcome to my Network Science project exploring Steam Store Games! This project was undertaken as part of my Network Science class at the Asian Institute of Management. In this project, I utilized network science techniques to analyze the relationships between developers, publishers, and game genres in the Steam gaming platform. For a comprehensive understanding of the project, please refer to the full blog post on [Medium](https://medium.com/@2010.jgwong/exploring-the-steam-gaming-ecosystem-using-network-analysis-9cedf4626b).
 
